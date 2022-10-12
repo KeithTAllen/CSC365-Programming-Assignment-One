@@ -31,6 +31,7 @@
       <root url="jar://$PROJECT_DIR$/projectone/lib/groovy-typecheckers-4.0.2.jar!/" />
       <root url="jar://$PROJECT_DIR$/projectone/lib/groovy-xml-4.0.2.jar!/" />
       <root url="jar://$PROJECT_DIR$/projectone/lib/groovy-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/projectone/lib/jsoup-1.15.3.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
